@@ -17,8 +17,10 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 
+# 這裡故意保留vscode的設置項
+#.vscode/*
+
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 *.suo

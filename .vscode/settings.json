@@ -1,0 +1,11 @@
+{
+  "eslint.codeActionsOnSave.rules": null,
+  "eslint.options": {
+    "extensions": [".html", ".ts", ".vue"]
+  },
+  "eslint.validate": ["html", "vue", "typescript"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": false,
+}
